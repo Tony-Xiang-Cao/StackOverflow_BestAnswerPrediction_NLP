@@ -1,4 +1,4 @@
-# StackOverflow_Preidiction
+# StackOverflow_BestAnswerPrediction_NLP
 
 This file describes all files for an NLP project of predicting best answers in Stack OverFlow dataset. Original dataset link:  https://www.kaggle.com/stackoverflow/stacksample
 The novelty of this project is extracting 28 numerical features out of the original 2 million answers in the dataset. We then trained several machine learning models for the best answer prediction task. This is a group project as final project of CSC2515 Machine Learning course, the final report is written in NeuraIPS format.
